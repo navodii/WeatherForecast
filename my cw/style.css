@@ -1,0 +1,95 @@
+header{
+    width: 100%;
+    color: darkblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-position: center;
+    padding-bottom: 5%;
+}
+#title{
+    margin-top: 80px;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.card:hover{
+    transform: scale(1.05);
+}
+#bcimg{
+    width: 100%;
+}
+#search{
+    width: 600px;
+    padding: 8PX;
+}
+#header{
+    background-image: url(j.jpg);
+}
+#btn{
+    background-color: rgba(22, 67, 182, 0.696);
+    color: #fff;
+    border:none;
+    width: 100px;
+    border-radius: 10px;
+}
+#btn:hover{
+    background-color: rgba(0, 153, 255, 0.559);
+    color: #fff(223, 230, 230);
+}
+#sun-img,#cimg{
+    margin-top: 80px;
+}
+
+#tbl{
+    width: 100%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.details td{
+    text-align: center;
+    border: 1px solid rgb(162, 157, 157);
+    padding: 10px;
+    background-color: none#333;
+    color:black;
+}
+#tit{
+   text-align: center; 
+}
+.img{
+    width: 30%;
+}
+#tab{
+    text-align: center;
+    width: 75%;
+    box-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.weather-forecast{
+    position: absolute;
+    display: flex;
+}
+.card{
+    margin-left: 30px;
+    margin-right: auto;
+    width: 100%;
+}
+#map{
+    text-align: center;
+}
+.footer {
+    background-color: darkblue;
+    padding: 30px 0;
+    text-align: center;
+}
+
+.footer p {
+    margin: 0;
+    color: whitesmoke;
+    font-size: 15px;
+}
+
+#map-t{
+    text-align: center;
+    
+}
